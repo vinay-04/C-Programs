@@ -1,2 +1,2 @@
 # C-Programs
-College PPS C-Programs
+College C-Programs.
